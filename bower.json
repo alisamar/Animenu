@@ -1,0 +1,26 @@
+{
+  "name": "Animenu",
+  "version": "0.1.0",
+  "homepage": "http://red-team-design.com/animenu-a-responsive-dropdown-navigation-made-with-sass/",
+  "authors": [
+    "Catalin Rosu <red@red-team-design.com>"
+  ],
+  "description": "A responsive dropdown navigation made with SCSS and a bit of JS",
+  "main": [
+    "sass/style.scss",
+    "js/animenu.js"
+    ],
+  "keywords": [
+    "menu",
+    "responsive",
+    "menu"
+  ],
+  "license": "Public Domain",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
